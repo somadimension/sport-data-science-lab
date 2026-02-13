@@ -16,7 +16,7 @@ The Sport Data Science (SDS) Lab  applies data science and quantitative methods 
 
 
   <div class="pi-meta">
-    <h3>Soowoong Hwang, Ph.D.</h3>
+    <h3>Soowoong Hwang, Ph.D. in Sport Science (Major: Sport Informatics)</h3>
     <p class="pi-role">
       Assistant Professor, Division of Sport<br/>
       Myongji University
@@ -34,10 +34,9 @@ The Sport Data Science (SDS) Lab  applies data science and quantitative methods 
     </ul>
 
     <div class="pi-links">
-      <a class="pill" href="mailto:YOUR_EMAIL@domain.com">Email</a>
+      <a class="pill" href="mailto:sportsict@mju.ac.kr">Email</a>
       <a class="pill" href="PASTE_GOOGLE_SCHOLAR_LINK_HERE" target="_blank" rel="noopener">Google Scholar</a>
       <a class="pill" href="PASTE_CV_LINK_HERE" target="_blank" rel="noopener">CV</a>
-      <a class="pill" href="PASTE_GITHUB_LINK_HERE" target="_blank" rel="noopener">GitHub</a>
     </div>
   </div>
 </div>
