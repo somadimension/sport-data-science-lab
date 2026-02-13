@@ -1,10 +1,13 @@
 ---
+layout: page
 title: Join
 ---
 
-# Join Us
+We welcome motivated undergraduate students interested in sport, data, and AI.
 
-We welcome motivated undergraduate students.
+**How to apply**
+- CV (PDF)
+- Short statement (5–10 lines)
+- Optional: GitHub / portfolio
 
-Email: sportsict@mju.ac.kr  
-Subject: [SDS Lab] Undergraduate RA Inquiry – Name
+Email: sportsict@mju.ac.kr
