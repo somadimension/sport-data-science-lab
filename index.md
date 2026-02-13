@@ -1,6 +1,7 @@
 ---
-layout: home
-title: Home
+layout: page
+title: ""
+permalink: /
 ---
 
 <div class="hero">
@@ -44,3 +45,4 @@ title: Home
     </ul>
   </div>
 </div>
+
