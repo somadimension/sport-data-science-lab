@@ -14,8 +14,8 @@ permalink: /
   <div class="hero-cta">
     <a class="btn btn-primary" href="{{ '/about' | relative_url }}">About</a>
     <a class="btn btn-primary" href="{{ '/join' | relative_url }}">Join the Lab</a>
-    <a class="btn btn-ghost" href="{{ '/research' | relative_url }}">Research</a>
-    <a class="btn btn-ghost" href="{{ '/publications' | relative_url }}">Publications</a>
+    <a class="btn btn-primary" href="{{ '/research' | relative_url }}">Research</a>
+    <a class="btn btn-primary" href="{{ '/publications' | relative_url }}">Publications</a>
   </div>
 </div>
 
