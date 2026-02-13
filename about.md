@@ -5,26 +5,38 @@ title: About
 
 ## About the Lab
 
-The Sport Data Science(SDS) Lab  applies data science and quantitative methods to advance performance, fairness, and intelligent decision-making in sport.
+The Sport Data Science Lab (SDSL) applies data science and quantitative methods to advance performance, fairness, and intelligent decision-making in sport.
 
 ---
 
 ## Principal Investigator
 
-### Soowoong Hwang, Ph.D.
-Assistant Professor  
-Division of Sport studies, Myongji University  
+<div class="pi-card">
+  <img class="pi-photo" src="{{ '/assets/images/PI.jpg' | relative_url }}" alt="Soowoong Hwang" />
 
-Dr. Hwang’s research focuses on data science for sport, AI-driven performance modeling, fairness and officiating analytics, and evidence-based sport policy evaluation.
+  <div class="pi-meta">
+    <h3>Soowoong Hwang, Ph.D.</h3>
+    <p class="pi-role">
+      Assistant Professor, Division of Sport<br/>
+      Myongji University
+    </p>
 
-His work integrates statistical modeling, machine learning, and causal inference to advance responsible and intelligent systems in sport.
+    <p>
+      My research focuses on sport data science, AI-driven performance modeling, fairness and officiating analytics, and evidence-based sport policy evaluation. I combine statistical modeling, machine learning, and causal inference to build responsible and actionable systems in sport.
+    </p>
 
-**Research Interests**
-- Sport data science & machine learning  
-- Fairness and decision-making in officiating  
-- Policy evaluation in sport systems  
-- Responsible AI in sport  
+    <ul class="pi-tags">
+      <li>Sport data science & machine learning</li>
+      <li>Fairness and decision-making in officiating</li>
+      <li>Policy evaluation in sport systems</li>
+      <li>Responsible AI in sport</li>
+    </ul>
 
-**Contact**
-- Email: sportsict@mju.ac.kr 
-- Google Scholar: (link)
+    <div class="pi-links">
+      <a class="pill" href="mailto:YOUR_EMAIL@domain.com">Email</a>
+      <a class="pill" href="PASTE_GOOGLE_SCHOLAR_LINK_HERE" target="_blank" rel="noopener">Google Scholar</a>
+      <a class="pill" href="PASTE_CV_LINK_HERE" target="_blank" rel="noopener">CV</a>
+      <a class="pill" href="PASTE_GITHUB_LINK_HERE" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </div>
+</div>
