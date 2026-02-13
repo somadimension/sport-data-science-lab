@@ -5,7 +5,7 @@ title: About
 
 ## About the Lab
 
-The Sport Data Science Lab (SDSL) applies data science and quantitative methods to advance performance, fairness, and intelligent decision-making in sport.
+The Sport Data Science(SDS) Lab  applies data science and quantitative methods to advance performance, fairness, and intelligent decision-making in sport.
 
 ---
 
