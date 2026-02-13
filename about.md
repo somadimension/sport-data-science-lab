@@ -12,7 +12,8 @@ The Sport Data Science (SDS) Lab  applies data science and quantitative methods 
 ## Principal Investigator
 
 <div class="pi-card">
-  <img class="pi-photo" src="{{ '/assets/images/pi.jpg' | relative_url }}" alt="Soowoong Hwang" />
+  <img class="pi-photo" src="/sport-data-science-lab/assets/images/pi.jpg" alt="Soowoong Hwang" />
+
 
   <div class="pi-meta">
     <h3>Soowoong Hwang, Ph.D.</h3>
