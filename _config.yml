@@ -3,9 +3,6 @@ description: "Data Science for Sport."
 theme: minima
 baseurl: "/sport-data-science-lab"
 
-github:
-  is_project_page: false
-
 header_pages:
   - about.md
   - research.md
