@@ -5,8 +5,8 @@ permalink: /
 ---
 
 <div class="hero">
-  <div class="hero-title">Sport Data Science Lab</div>
-  <div class="hero-tagline"><em>Data Science for Sport.</em></div>
+  <div class="hero-title">Sport Data Science Lab.</div>
+  <div class="hero-tagline"><em>Based at Myongji University.</em></div>
   <div class="hero-sub">
     Advancing performance, fairness, and intelligent decision-making in sport through data science.
   </div>
